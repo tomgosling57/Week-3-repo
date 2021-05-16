@@ -1,0 +1,66 @@
+body {
+    font-family: Arial;
+    padding: 10px;
+    background: #3b3b3b;
+    color:red;
+}
+
+.textBoxLeft {
+    width: 50px;
+    height: 240;
+    background-color: #505050;
+    outline: 2px ridge #2b2b2b;
+    position:fixed;
+    color:aqua;
+    text-align: center;
+    left:100px;
+    top:0px;
+}
+.textBoxMiddle {
+    width: 150px;
+    height: 240;
+    background-color: #5149af;
+    outline: 2px ridge #2b2b2b;
+    position:fixed;
+    color:aqua;
+    text-align: center;
+    left:150px;
+    top:0px;
+}
+.textBoxRight {
+    width: 300px;
+    height: 240;
+    background-color: #49af62;
+    outline: 2px ridge #2b2b2b;
+    position:fixed;
+    color:aqua;
+    text-align: center;
+    left:300px;
+    top:0px;
+}
+img.page1 {
+    float: right;
+}
+
+img.profile {
+    border-radius:90%;
+    float: right;
+}
+
+h1.page1 {
+    text-align: center;
+    margin-left:625px;
+    margin-right:625px;
+    border:dotted;
+}
+p.p1 {
+    color:rgb(255, 0, 179);
+    margin-right:350px;
+    border:double 4px;
+    font-size:14px;
+}
+p.p2 {
+    color:crimson;
+    border:double;
+    font: italic small-caps bold 14px/30px Georgia, serif;;
+}
